@@ -3,10 +3,7 @@
 
 - 🧑‍🎓 Student at Ahmad Dahlan University in Informatics Major
 - 🧑🏻‍💻 Freelancer
-- <img src="https://img.icons8.com/ios/50/null/html-filetype--v1.png"/> HTML
-- <img src="https://icons8.com/icon/21278/css3"/>CSS
-- <img src="./icons/laravel.svg"/>Laravel
-
+- <img src="https://img.icons8.com/fluency/48/null/laravel.png"/> Laravel
 
 #### ☎️ Find me
 
