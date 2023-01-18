@@ -3,9 +3,9 @@
 
 - 🧑‍🎓 Student at Ahmad Dahlan University in Informatics Major
 - 🧑🏻‍💻 Freelancer
-- <img src="./icons/vuejs.svg"> [@vuejs](https://github.com/vuejs)
-- <img src="./icons/vueuse.svg"> [@vueuse](https://github.com/vueuse)
-- <img src="./icons/elk.svg"> [@elk-zone](https://github.com/elk-zone)
+- <img src="https://img.icons8.com/ios/50/null/html-filetype--v1.png"/> HTML
+- <img src="https://icons8.com/icon/21278/css3"/>CSS
+- <img src="./icons/laravel.svg"/>Laravel
 
 
 #### ☎️ Find me
